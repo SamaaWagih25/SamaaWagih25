@@ -2,6 +2,7 @@
 - 👀 I am eager to explore Data Science and its impact on different aspects of life, particularly the effects of AI
 - 🌱 I’m currently strengthening my analytical and programming skills. I'm also reading as many books as I can 
 - 📫 You can reach me through e-mail: samaamamoon@gmail.com
+- 🔗 You can also find me on LinkedIn: https://www.linkedin.com/in/samaa-wagih-5624aa21a/
 - 🩵 Fun fact: I have a strong passion for reading and writing, as well as traveling. 
 
 <!---
