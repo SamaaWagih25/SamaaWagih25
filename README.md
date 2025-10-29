@@ -1,5 +1,5 @@
 <!-- Intro Section -->
-<h1 align="center">Hi there 👋, I'm Samaa Wagih</h1>
+<h1 align="center">Hi there 👋, I'm Samaa Wagih! </h1>
 <h3 align="center">✨ Computer Science Graduate | Data Science Enthusiast ✨</h3>
 
 <!-- Typing SVG -->
