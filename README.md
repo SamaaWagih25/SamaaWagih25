@@ -4,7 +4,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;UI%2FUX+Designer+%F0%9F%96%8C;Data+Science+Explorer+%F0%9F%8C%8D;Always+learning+something+new!+%F0%9F%92%AA">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Data+Science+Explorer+%F0%9F%8C%8D;Always+learning+something+new!+%F0%9F%92%AA">
 </p>
 
 ---
