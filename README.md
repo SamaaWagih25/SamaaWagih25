@@ -39,10 +39,10 @@
 <!-- Connect Section -->
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/samaawagih" target="_blank">
+  <a href="[https://www.linkedin.com/in/samaawagih](https://www.linkedin.com/in/samaa-wagih-5624aa21a/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:samaawagih@gmail.com">
+  <a href="mailto:samaamamoon@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/SamaaWagih25">
